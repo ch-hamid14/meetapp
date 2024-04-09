@@ -1,4 +1,4 @@
-<img src=".erb/img/meet.png" width="100%" />
+<img src=".erb/img/meeting.png" width="100%" />
 
 <br>
 
